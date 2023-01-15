@@ -1,7 +1,3 @@
-# Basic Sample React DApp Project
-
-This project demonstrates a basic dApp development with React, Ethers.js, Solidity, and Hardhat. I wanted to show you how to build full stack Ethereum dapps using the most up to date resources, libraries, and tooling.
-
 # How to install and run 
 1. Clone the repo
 ```
